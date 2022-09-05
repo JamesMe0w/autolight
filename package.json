@@ -1,7 +1,7 @@
 {
-  "name": "autohome",
+  "name": "autolight",
   "version": "1.0.0",
-  "description": "",
+  "description": "Autonomous Light Management System using RaspberryPi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
