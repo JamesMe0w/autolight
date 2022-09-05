@@ -116,8 +116,3 @@ function motionSensorCheck() {
 
 
 // const executeMotionCheck = setInterval(motionSensorCheck, 2000);
-
-
-
-
-
